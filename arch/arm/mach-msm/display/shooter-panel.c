@@ -419,7 +419,7 @@ static struct mipi_dsi_platform_data mipi_pdata = {
 
 #define BRI_SETTING_MIN		20
 #define BRI_SETTING_DEF		113
-#define BRI_SETTING_MAX		255
+#define BRI_SETTING_MAX		230
 
 #define PWM_MIN				8
 #define PWM_DEFAULT			91
